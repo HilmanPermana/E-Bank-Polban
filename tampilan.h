@@ -7,9 +7,8 @@ struct akun{
 	int saldo; 
 }ak, akn;
 
-char filename[100],nama[50],password[50],phone2[50], noRek[10];
+char filename[100],nama[50],password[50], noRek[10];
 int jumlah; 
-int input;
 
 void gotoxy(int x, int y);
 void sambutan(); 
